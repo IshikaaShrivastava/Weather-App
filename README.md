@@ -14,8 +14,7 @@ Welcome to the Weather Application! This application provides current weather da
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
-https://github.com/yourusername/Weather-App.git
+   git clone https://github.com/yourusername/Weather-App.git
    ```
 2. Install the required packages:
    ```bash
