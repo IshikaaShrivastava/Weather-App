@@ -21,7 +21,10 @@ Welcome to the Weather Application! This application provides current weather da
    npm install
   
 3. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) by signing up and subscribing to their service.
+   ```bash
+   https://openweathermap.org/api
    ```
+   
 ## Usage
 Run the application:
 ```bash
