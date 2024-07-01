@@ -1,5 +1,5 @@
 const apiKey = '30a71b1a4788a0664bf6780397eac724';
-//30a71b1a4788a0664bf6780397eac724
+//Update the APIkey for the valid response from API.
 
 const getWeather = async (city) => {
     return await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`)
